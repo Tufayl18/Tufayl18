@@ -1,5 +1,9 @@
 # 👤 About Me:
-Full Stack Developer skilled in JavaScript, TypeScript, Node.js, PostgreSQL, and Luau, with experience in back end<br>development, web design, and problem-solving across production systems and multiplayer game architecture.<br>Strong organizational skills with a track record of shipping scalable applications for real clients. Co-founder of<br>Script Island, a dev agency delivering web products, and experienced in AI-assisted development workflows.
+  Full Stack Developer skilled in JavaScript, TypeScript, Node.js, PostgreSQL, and Luau, with experience in back       
+  end<br>development, web design, and problem-solving across production systems and multiplayer game architecture.       
+  <br>Strong organizational skills with a track record of shipping scalable applications for real clients. Co-founder    
+  of<br><a href="https://www.scriptisland.in" target="_blank">Script Island</a>, a dev agency delivering web products,   
+  and experienced in AI-assisted development workflows.
 
 
 ## 🌐 Socials:
